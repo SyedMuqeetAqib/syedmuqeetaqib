@@ -1,25 +1,105 @@
-<h1 align="center">Hi 👋, I'm Muqeet.</h1>
-<h3 align="center">Full Stack Developer | React | Next | Nest | Web3 | Blockchain | MongoDB | Postgres</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [muqeetsportfolio.web.app](muqeetsportfolio.web.app)
+```
+ ███╗   ███╗██╗   ██╗ ██████╗ ███████╗███████╗████████╗
+ ████╗ ████║██║   ██║██╔═══██╗██╔════╝██╔════╝╚══██╔══╝
+ ██╔████╔██║██║   ██║██║   ██║█████╗  █████╗     ██║   
+ ██║╚██╔╝██║██║   ██║██║▄▄ ██║██╔══╝  ██╔══╝     ██║   
+ ██║ ╚═╝ ██║╚██████╔╝╚██████╔╝███████╗███████╗   ██║   
+ ╚═╝     ╚═╝ ╚═════╝  ╚══▀▀═╝ ╚══════╝╚══════╝   ╚═╝   
+```
 
-- 💬 Ask me about **web development related technologies.**
+### hey, I'm Muqeet 👋
 
-- 📫 How to reach me **smuqeetaqib@gmail.com**
+**Software Engineer · AI Builder · Blockchain Tinkerer 🇵🇰**
 
-- ⚡ Fun fact **Lean to get new experiences**
+*I turn caffeine and TypeScript into scalable things people actually use.*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/smuqeetaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smuqeetaqib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed-muqeet-aqib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed muqeet aqib" height="30" width="40" /></a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/smuqeetaqib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muqeet-aqib/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://hi-syedmuqeet.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuqeetaqib@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="gcp" width="80" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmuqeetaqib&show_icons=true&locale=en&layout=compact" alt="syedmuqeetaqib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedmuqeetaqib&show_icons=true&locale=en" alt="syedmuqeetaqib" /></p>
+## 🧠 what I actually do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuqeetaqib&" alt="syedmuqeetaqib" /></p>
+I'm a full-stack engineer with **4.5+ years** of building things on the web — from pixel-perfect frontends to the backend plumbing nobody sees but everyone depends on.
+
+Lately I've been deep in the **AI space**: building LLM-powered agents, wiring up OpenAI/Claude APIs, and figuring out how to make AI actually useful inside real products. I also spent time in the **blockchain world** — Ethereum, Solana, cross-chain bridges, the works.
+
+Currently at **Numeo AI**, where I'm building AI-powered tools for trucking & fleet management. Yes, trucking. It's more interesting than it sounds.
+
+---
+
+## ⚡ the stack I reach for
+
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `Framer Motion`
+
+**Backend**
+`Node.js` `NestJS` `Express` `GraphQL` `BullMQ` `Redis`
+
+**Databases**
+`PostgreSQL` `MongoDB`
+
+**AI / LLM**
+`OpenAI` `Claude` `ElizaOS` `Prompt Engineering` `AI Agents`
+
+**Blockchain**
+`Ethereum` `Solana` `Ethers.js` `Viem` `Anchor` `Solidity`
+
+**DevOps & Cloud**
+`GCP` `AWS` `Docker` `GitHub Actions` `CI/CD`
+
+---
+
+## 🏆 a few things I'm proud of
+
+- 🚀 Launched a flagship product to **85,000+ users on day one** — owned the full stack from architecture to deploy
+- 🏭 Shipped production features in a **Google-style monolithic architecture on GCP** — strong code review culture, rapid iteration, real engineering discipline
+- 🎧 Worked **directly with early users** — gathered feedback, triaged issues, and shipped fixes fast in an on-call, incident-response environment
+- 🤖 Built and deployed **end-to-end AI agents in production** — not prototypes, actual systems handling real user workflows with streaming responses and task splitting for low latency
+- 🛠️ Extended open-source AI frameworks (**ElizaOS**) for parallel task execution and scalable multi-agent communication
+- ⚙️ Designed **queue-based backend systems** with BullMQ + Redis to handle heavy async workloads without breaking under load
+- 🌉 Built **cross-chain bridges** between Ethereum, Polygon, and NEAR — secure, large-scale transfers across ecosystems
+- 📦 Architected a **reusable React component library** with REST APIs and real-time GraphQL subscriptions baked in
+
+---
+
+## 🔨 what I'm building now
+
+```typescript
+const muqeet = {
+  currentlyAt: "Numeo AI",
+  building: ["AI dispatching for trucking fleets", "LLM-powered automation pipelines"],
+  obsessedWith: ["AI agents that actually work", "clean backend architecture"],
+  tools: ["Claude", "Cursor", "too many browser tabs"],
+  funFact: "I vibe-coded this README"
+};
+```
+
+---
+
+## 📊 github wrapped
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedmuqeetaqib&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmuqeetaqib&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedmuqeetaqib&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+
+*if you're building something cool, let's talk.*
+
+`smuqeetaqib@gmail.com`
+
+</div>
