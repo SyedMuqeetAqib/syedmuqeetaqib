@@ -11,7 +11,7 @@
 
 ### hey, I'm Muqeet 👋
 
-**Software Engineer · AI Builder · Blockchain Tinkerer 🇵🇰**
+**Software Engineer · AI Builder · Blockchain Tinkerer**
 
 *I turn caffeine and TypeScript into scalable things people actually use.*
 
